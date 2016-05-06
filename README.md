@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Modifying RottenPotatoes
 ========================
 
@@ -348,3 +349,6 @@ contents.
 **Please be careful** to use **http** and not **https**, that is, 
 submit `http://your-app.herokuapp.com` **and NOT**
 `https://your-app.herokuapp.com`. 
+=======
+# abcd
+>>>>>>> 80005211792fa7894aeb33b44bb42cfd3bb0bcea
